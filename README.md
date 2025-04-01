@@ -1,7 +1,3 @@
-Aquí tienes la traducción al inglés:  
-
----
-
 # **PDF Generator for Patient Form**  
 
 This project is a desktop application developed in Python that allows users to fill out a patient form and generate a PDF file with the entered information. It uses libraries such as **tkinter** for the graphical interface and **reportlab** for PDF generation.  
